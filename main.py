@@ -49,3 +49,8 @@
 x=int(input())
 y=int(input())
 print(f'{x}+{y}={x+y}')
+#소스코드 수정
+x=int(input('첫번째 인자를 입력하세요: '))
+ㅅ=int(input('두번째 인자를 입력하세요: '))
+print(f'{x}+{y}={x+y}')
+print('프로그램을 종료합니다.')
